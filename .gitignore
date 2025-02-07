@@ -1,0 +1,8 @@
+# Artifacts
+coverage/
+dist/
+node_modules/
+
+# Tools
+*.code-workspace
+.eslintcache
